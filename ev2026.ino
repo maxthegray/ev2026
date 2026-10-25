@@ -1,4 +1,4 @@
-// EV 2026 — Travel a set distance in a set time gyro only 
+// EV 2026, travel a set distance in a set time, gyro only
 // Time-based control (no encoders)
 
 #include <TektiteRotEv.h>
